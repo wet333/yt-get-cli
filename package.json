@@ -1,6 +1,6 @@
 {
 	"name": "yt-get-cli",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"description": "yt-get-cli is a command-line tool for easily downloading MP3 audio from YouTube videos and playlists.",
 	"main": "index.js",
 	"bin": {
@@ -28,6 +28,6 @@
 	},
 	"homepage": "https://github.com/wet333/yt-get-cli#readme",
 	"dependencies": {
-		"yt-get": "^1.0.4"
+		"yt-get": "^1.1.2"
 	}
 }
